@@ -1,0 +1,36 @@
+#topsection{
+    background: url(cover.jpg) center;
+    background-size: cover;
+    color: white;
+    height: 250px;
+}
+
+#comingsoon{
+     background: url( art-bloom-blooming-953075.jpg) center;
+    background-size: cover;
+    color: black;
+    height: 250px;
+}
+h1,h2{
+    font-family: 'Knewave', cursive;
+}
+
+.rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightcyan;
+}
+
+.imgs{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#signuprow {
+    
+    padding-bottom: 10px;
+}
+
+.footer{
+    background-color:bisque;
+}
